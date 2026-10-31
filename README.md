@@ -15,6 +15,12 @@ Built by **[Pingo Creative Technology](https://pingocreativetechnology.com)**.
 
 **Tags:** #Singlish #Singapore #ClaudeCode #ClaudeSkills #AgentSkills #VibeCoding
 
+## Demo
+
+[![SG Skill demo: SG Skill — The Claude Code Skill That Speaks Singlish](https://img.youtube.com/vi/oUTVUdkMkhY/maxresdefault.jpg)](https://youtu.be/oUTVUdkMkhY)
+
+▶️ **[Watch the demo on YouTube](https://youtu.be/oUTVUdkMkhY)**: *SG Skill — The Claude Code Skill That Speaks Singlish*
+
 ---
 
 ## Purpose
