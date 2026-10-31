@@ -9,6 +9,8 @@
 
 Built by **[Pingo Creative Technology](https://pingocreativetechnology.com)**.
 
+<sub>Works with Grok Bot as well as Claude Code.</sub>
+
 **Keywords:** Singlish, Singaporean English, Singapore English, Singapore, kopitiam, discourse particles, Claude Code, Claude skills, Agent Skills, vibe coding, AI coding assistant, LLM
 
 **Tags:** #Singlish #Singapore #ClaudeCode #ClaudeSkills #AgentSkills #VibeCoding
