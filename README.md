@@ -1,8 +1,8 @@
-# sg-skill.pct: a Claude Code skill for Singlish
+# sg-skill: vibe code in Singlish with Claude Code
 
-**Website:** https://sgskill.pingocreativetechnology.com
+**Website:** https://sg-skill.pingocreativetechnology.com
 
-**Vibe-code in Singlish, ship in standard English.** sg-skill.pct is a [Claude Code](https://docs.claude.com/en/docs/claude-code) skill that lets Claude understand Singaporean English (Singlish) and reply at your level, while your code, comments, commits and docs stay clean and professional.
+**sg-skill lets you vibe code in Singlish with Claude Code, then ship in standard English.** sg-skill is a Singlish skill for [Claude Code](https://docs.claude.com/en/docs/claude-code) that lets Claude understand Singaporean English (Singlish) and reply at your level, while your code, comments, commits and docs stay clean and professional.
 
 > **You:** Eh the docker build fail again leh, why like that?
 > **Claude:** Fail at `npm ci` because the lockfile out of sync with `package.json` lor. Run `npm install`, commit the lockfile, then rebuild. Should be OK after that.
@@ -17,7 +17,7 @@ Built by **Pingo Creative Technology**.
 
 ## Purpose
 
-Many Singaporeans think and chat in Singlish, especially when they're relaxed, stuck or celebrating. sg-skill.pct lets you talk to Claude the way you'd talk to a friendly colleague at the kopitiam, and Claude talks back the same way. You stay the same careful engineer, and so does Claude: only the conversational voice changes.
+Many Singaporeans think and chat in Singlish, especially when they're relaxed, stuck or celebrating. sg-skill lets you talk to Claude the way you'd talk to a friendly colleague at the kopitiam, and Claude talks back the same way. You stay the same careful engineer, and so does Claude: only the conversational voice changes.
 
 The aim is to sound like a friendly Singaporean colleague, never a caricature. Singlish is treated as a real, rule-governed way of speaking, not a joke.
 
@@ -190,4 +190,4 @@ Copyright (c) 2026 Pingo Creative Technology.
 
 ---
 
-*sg-skill.pct changes Claude's conversational voice only. It doesn't change what Claude is allowed to do. Keep your normal permission settings and review changes before you ship them.*
+*sg-skill changes Claude's conversational voice only. It doesn't change what Claude is allowed to do. Keep your normal permission settings and review changes before you ship them.*

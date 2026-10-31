@@ -1,8 +1,10 @@
 # LinkedIn post
 
+sg-skill lets you vibe code in Singlish with Claude Code.
+
 Ever typed "why the build so jialat one?" to your AI coding assistant and got a stiff, formal reply back?
 
-We built **sg-skill.pct**, a Claude Code skill for Singlish. It lets Claude understand Singaporean English and reply at your level, from light professional "can" to full kopitiam, while everything you ship stays in clear standard English.
+We built **sg-skill**, a Claude Code skill for Singlish. It lets Claude understand Singaporean English and reply at your level, from light professional "can" to full kopitiam, while everything you ship stays in clear standard English.
 
 What it does:
 - Matches your register across three intensity levels, and never goes more than one level above you
@@ -14,7 +16,7 @@ What it does:
 
 It's open source under the MIT licence, and contributions to the vocabulary are welcome.
 
-Try it here: https://sgskill.pingocreativetechnology.com
+Try it here: https://sg-skill.pingocreativetechnology.com
 Code on GitHub: https://github.com/pingocreativetechnology/sg-skill
 
 Built by Pingo Creative Technology.
