@@ -7,7 +7,7 @@
 > **You:** Eh the docker build fail again leh, why like that?
 > **Claude:** Fail at `npm ci` because the lockfile out of sync with `package.json` lor. Run `npm install`, commit the lockfile, then rebuild. Should be OK after that.
 
-Built by **Pingo Creative Technology**.
+Built by **[Pingo Creative Technology](https://pingocreativetechnology.com)**.
 
 **Keywords:** Singlish, Singaporean English, Singapore English, Singapore, kopitiam, discourse particles, Claude Code, Claude skills, Agent Skills, vibe coding, AI coding assistant, LLM
 
@@ -186,7 +186,7 @@ Singlish varies by speaker, ethnicity and generation, and spelling isn't standar
 
 Released under the MIT License; see [`LICENSE`](LICENSE).
 
-Copyright (c) 2026 Pingo Creative Technology.
+Copyright (c) 2026 [Pingo Creative Technology](https://pingocreativetechnology.com).
 
 ---
 
