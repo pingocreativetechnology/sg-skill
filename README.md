@@ -165,6 +165,10 @@ Rule of thumb: 0 to 1 particles or slang words means Level 1, 2 to 4 means Level
 
 Spotted a missing word, a wrong meaning or a better example? Issues and pull requests are welcome. Every vocabulary entry needs a meaning, origin and example, plus a source in the PR description. Vulgar terms and slurs aren't accepted as usable entries. See [`CONTRIBUTING.md`](CONTRIBUTING.md) for the details.
 
+## Support
+
+If sg-skill saved you time or made you smile, you can [buy me a coffee](https://buymeacoffee.com/pingoism). Thank you!
+
 ## Sources
 
 Meanings and particle functions were checked against:
